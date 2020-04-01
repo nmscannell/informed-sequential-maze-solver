@@ -1,0 +1,7 @@
+Search Type, Solution Length, Visited Cells, Path, Total Time
+Greedy m, 3, 2, <1,a>, <3,*>, <4,c>,  3
+Greedy e, 3, 2, <1,a>, <3,*>, <4,c>,  3
+A* m, 3, 2, <1,a>, <3,*>, <4,c>,  3
+A* e, 3, 2, <1,a>, <3,*>, <4,c>,  3
+Gradient Descent m, 3, 2, <1,a>, <3,*>, <4,c>,  3
+Gradient Descent e, 3, 2, <1,a>, <3,*>, <4,c>,  3

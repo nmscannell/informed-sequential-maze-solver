@@ -1,0 +1,7 @@
+Search Type, Solution Length, Visited Cells, Path, Total Time
+Greedy m, 9, 11, <1,a>, <2,b>, <3,*>, <7,a>, <8,*>, <12,c>, <11,a>, <15,*>, <16,c>,  11
+Greedy e, 9, 11, <1,a>, <2,b>, <6,*>, <7,a>, <8,*>, <12,c>, <11,a>, <15,*>, <16,c>,  11
+A* m, 9, 14, <1,a>, <2,b>, <6,*>, <5,a>, <9,b>, <10,c>, <11,a>, <15,*>, <16,c>,  10
+A* e, 9, 16, <1,a>, <2,b>, <6,*>, <5,a>, <9,b>, <10,c>, <11,a>, <15,*>, <16,c>,  10
+Gradient Descent m, 0, 8, Nil   0
+Gradient Descent e, 0, 8, Nil   0

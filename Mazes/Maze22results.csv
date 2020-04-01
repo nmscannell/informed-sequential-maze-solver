@@ -1,0 +1,7 @@
+Search Type, Solution Length, Visited Cells, Path, Total Time
+Greedy m, 0, 1383, Nil   0
+Greedy e, 0, 26806, Nil   0
+A* m, 0, 13788, Nil   0
+A* e, 0, 6799, Nil   0
+Gradient Descent m, 0, 9, Nil   0
+Gradient Descent e, 0, 9, Nil   0
